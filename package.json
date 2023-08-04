@@ -1,0 +1,26 @@
+{
+  "name": "week3workshop",
+  "version": "1.0.0",
+  "description": "Week 3 Workshop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyphenTilde/week3workshop.git"
+  },
+  "author": "Rawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyphenTilde/week3workshop/issues"
+  },
+  "homepage": "https://github.com/HyphenTilde/week3workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
